@@ -1,1 +1,1 @@
-Course: Version Control
+Course: DevOps with Git and Jenkins
