@@ -1,1 +1,1 @@
-Course: Git Basics
+Course: Version Control
