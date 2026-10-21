@@ -1,1 +1,1 @@
-Course: Git Basics
+Course: DevOps Fundamentals
